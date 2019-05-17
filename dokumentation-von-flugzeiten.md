@@ -15,4 +15,3 @@ AMC bedeutet Acceptable Means of Compliance; GM bedeutet Guidance Material: http
 eine schöne Part-FCL mit AMC und GM ist hier: https://www.easa.europa.eu/sites/default/files/dfu/Part-FCL.pdf
 Quelle, die auf jenes Dokument verlinkt: https://www.easa.europa.eu/document-library/general-publications/easy-access-rules-part-fcl-part-ara-part-ora
 (Klickpfad: Document Library > Publications > General Publications > EASY ACCESS RULES FOR PART-FCL - PART-ARA - PART-ORA (i.e. auf Seite 2))
-
